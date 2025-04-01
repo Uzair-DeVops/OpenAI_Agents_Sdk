@@ -1,5 +1,4 @@
-Below is a draft extensive README that you can use and modify for your lecture content. It integrates elements from your lecture video “Lec:01- Complete Course | OpenAI Agent SDK | Learn from Scratch | How use AI Agent Projects | Uzair” and the corresponding GitHub repository structure.
-
+This is the Complete lectures about OpenAi Agents SDK
 ---
 
 # Lecture 01: Introduction to OpenAI Agent SDK
