@@ -178,15 +178,8 @@ This project is licensed under the [MIT License](LICENSE) – see the LICENSE fi
 For questions or further discussion:
 - **Lecturer:** Muhammad Uzair
 - **GitHub:** [Uzair-DeVops](https://github.com/Uzair-DeVops)
-- **Email:** *[Insert your email here]*
 
 ---
-
-*This README was generated to complement the lecture content and code provided in Lecture 01. It aims to serve as a comprehensive guide for students to follow along and implement the OpenAI Agent SDK in their own projects.*
-
----
-
-Feel free to modify, expand, or reorganize this content to best match the lecture details and your teaching style.
 
 
 
@@ -393,12 +386,4 @@ This project is licensed under the [MIT License](LICENSE) – see the LICENSE fi
 For questions, feedback, or further discussion:
 - **Lecturer:** Muhammad Uzair
 - **GitHub:** [Uzair-DeVops](https://github.com/Uzair-DeVops)
-- **Email:** *[Insert your email here]*
 
----
-
-*This README is intended to serve as a comprehensive guide to the concepts and code demonstrated in Lecture 2. It is designed to help students follow along and implement asynchronous and streaming functionalities in their own AI agent projects.*
-
----
-
-Feel free to modify, expand, or reorganize this content to suit your lecture content and teaching style.
