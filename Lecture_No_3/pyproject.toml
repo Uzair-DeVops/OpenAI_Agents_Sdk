@@ -1,0 +1,24 @@
+[project]
+name = "project23"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Muhammad Uzair", email = "uzairyasin83@gmail.com" }
+]
+requires-python = ">=3.11"
+dependencies = [
+    "chainlit>=2.4.400",
+    "gradio>=5.23.3",
+    "litellm>=1.65.1",
+    "openai-agents>=0.0.7",
+    "streamlit>=1.44.1",
+    "streamlit-chat>=0.1.1",
+]
+
+[project.scripts]
+project23 = "project23:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
