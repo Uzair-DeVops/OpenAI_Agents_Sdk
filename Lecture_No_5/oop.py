@@ -1,4 +1,5 @@
 class Human:
+    specie = "HumanSpecie"
     def __init__(self, name, age, gender, nationality):
              # type: ignore
         self.name = name  # type: str
@@ -13,7 +14,11 @@ class Human:
     def __eq__(self, other):
         return self.name == other.name and self.age == other.age and self.gender == other.gender and self.nationality == other.nationality
     
-    
+    def specie(self):
+        return self.specie = "uzair"
+    # @staticmethod
+    # def specie():
+    #     return Human.specie
     # def speak(self):
     #     return self.name , "is speaking"
     # def introduce_self(self):
@@ -27,4 +32,4 @@ h2 = Human("uzair",20,"male","Pakistan")
 # print(h1.name)
 # print()
 # print(dir(h1))
-print(h1) 
+print(h1.specie) 

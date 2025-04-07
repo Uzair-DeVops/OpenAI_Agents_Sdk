@@ -26,3 +26,4 @@ def run():
     result = Runner.run_sync(agent, "tell me about Pakistan.")
     print(result.final_output)
 
+run()
